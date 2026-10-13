@@ -1,0 +1,1 @@
+pip install numpy pandas scipy matplotlib seaborn xlsxwriter scikit-learn dash plotly requests datetime openpyxl

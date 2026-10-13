@@ -1,0 +1,21 @@
+id,name,age,email,date,price,status
+1, Alice ,25.0,alice@example.com,2026-01-10,"$1,200",active
+2,BOB,30.0,bob@example.com,2026-01-12,$950,inactive
+3, Charlie ,,charlie@example.com,2026/01/15,"$1,500",actve
+4,Diana,28.0,,15-01-2026,"$1,100",in-active
+5,Eve ,35.0,eve@example.com,2026-01-18,"$2,000",active
+6, Frank,40.0,frank@example.com,2026-01-20,$900,inactive
+7,Grace,32.0,grace@example.com,2026-01-22,"$1,350",
+8,Henry,29.0,henry@example.com,2026-01-25,"$1,050",active
+9,Ivy,27.0,ivy@example.com,2026-01-28,"$1,250",active
+10,Jack,31.0,jack@example.com,2026-02-01,"$1,400",inactive
+11, Alice ,25.0,alice@example.com,2026-01-10,"$1,200",active
+12,Kate,,kate@example.com,2026-02-05,"$1,300",actve
+13,Leo,26.0,leo@example.com,2026-02-07,"$1,150",inactive
+14,Mia,34.0,mia@example.com,2026-02-10,"$1,450",active
+15,Noah,500.0,noah@example.com,2026-02-12,"$99,999",active
+16,Olivia,29.0,olivia@example.com,invalid-date,"$1,180",inactive
+17, Peter ,33.0,peter@example.com,2026-02-18,"$1,220",active
+18,Quinn,28.0,quinn@example.com,2026-02-20,"$1,100",in-active
+19, Rose ,,rose@example.com,2026-02-22,"$1,280",active
+20,Sam,30.0,sam@example.com,2026-02-25,"$1,190",inactive

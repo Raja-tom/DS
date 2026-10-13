@@ -1,0 +1,10 @@
+import pandas as pd
+df = pd.read_excel('data.xlsx')  
+print("First 5 rows of the dataset:")
+print(df.head())
+print("\nDataset Info:")
+print(df.info())
+print("\nStatistical Summary:")
+print(df.describe())
+print("\nShape of Dataset:")
+print(df.shape)

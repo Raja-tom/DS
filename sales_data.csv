@@ -1,0 +1,13 @@
+Product,Month,Sales,Region
+A,January,12000,North
+A,February,15000,South
+A,March,18000,East
+A,April,14000,West
+B,January,10000,North
+B,February,13000,South
+B,March,16000,East
+B,April,12000,West
+C,January,9000,North
+C,February,11000,South
+C,March,14000,East
+C,April,10000,West
